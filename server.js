@@ -7,7 +7,7 @@ app.use(morgan('combined'));
 
 var pages = {
     
-    aboutme: {
+    'about-me': {
         title: 'About Me|Mahesh Choudhary',
         heading: 'About Me',
         date: 'Aug 13, 2017',
@@ -17,10 +17,10 @@ var pages = {
     				
     		<p> This is fun. As I get to learn a lot of stuff. Hope you like my website.</p>
     			
-    		<p>Please let me know what you feel. To connect with me to to the <a href="/Contact">Contact</a> page.</p>`,
+    		<p>Please let me know what you feel. To connect with me to to the <a href="/contact">Contact</a> page.</p>`,
     },
     
-    currentprojects: {
+    'current-projecs': {
         title: 'Projects|Mahesh Choudhary',
         heading: 'Current Projects',
         date: new Date(),
@@ -35,7 +35,7 @@ var pages = {
     		
     		<p>I'm currently pursuing my B.Tech degree in Computer Science and Engineering from SRM University, Vadapalani</p>
     			
-    		<p>Please let me know what you feel. To connect with me to to the <a href="/Contact">Contact</a> page.</p>`,
+    		<p>Please let me know what you feel. To connect with me to to the <a href="/contact">Contact</a> page.</p>`,
     },
     
     contact:{
