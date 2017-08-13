@@ -43,11 +43,11 @@ var pages = {
         heading: 'Contact',
         date: 'Aug 13, 2017',
         content:`,
-            <p> Facebook <a href="www.facebook.com/maky007"></a></p>
+            <p> Facebook <a href="www.facebook.com/maky007">Mahesh Choudhary</a></p>
     				
-    		<p> Instagram  <a href="www.instagram.com/maheshc7"></a></p>
+    		<p> Instagram  <a href="www.instagram.com/maheshc7">maheshc7</a></p>
     			
-    		<p>G-mail  <a href="https://mail.google.com/mail/u/0/#inbox?compose=15dda9ece135cb1d"></a></p>`,
+    		<p>G-mail  <a href="https://mail.google.com/mail/u/0/#inbox?compose=15dda9ece135cb1d">mrak4123@gmail.com</a></p>`,
     }
     
 };
