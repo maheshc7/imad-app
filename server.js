@@ -20,7 +20,7 @@ var pages = {
     		<p>Please let me know what you feel. To connect with me to to the <a href="/contact">Contact</a> page.</p>`,
     },
     
-    'current-projecs': {
+    'current-projects': {
         title: 'Projects|Mahesh Choudhary',
         heading: 'Current Projects',
         date: new Date(),
